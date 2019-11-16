@@ -14,6 +14,7 @@ You can generate your resume in pdf format at client side. We do not store any i
 - QR code
 - PDF Open, Print and Download option
 
-## Developed and Maintained By
+## Developed By
 
-This project is developed by [NgDevelop](https://www.ngdevelop.tech/) for the [Export to pdf in Angular 8 using pdfmake](https://www.ngdevelop.tech/angular-8-export-to-pdf-using-pdfmake/) blog.
+Ankit Kumar Sharma
+
